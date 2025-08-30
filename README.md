@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zenha Fathima</h1>
-<h3 align="center">🚀   Python Backend Developer | Django | Frontend Developer | Ai Agents Enthusiast </h3>
+<h3 align="center">🚀 Python Backend Developer | Django | Frontend Developer | AI Agents Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zenha123&label=Profile%20views&color=0e75b6&style=flat" alt="Zenha123" />
@@ -8,15 +8,12 @@
 ---
 
 ### 👨‍💻 About Me
+Computer Science Engineering Student | Aspiring Software & Back-End Developer
 
-- 🎓 BTech CSE Student | Passionate about building real-world web solutions
-- 💻 Skilled in **Python, Django, HTML, CSS, JavaScript, REST APIs**
-- 🌐 Deployed  projects on GitHub Pages, Netlify, and Vercel
-- 🧑‍🏫 Contributor at Full Stack Bootcamp, INNOVUS CS Association COET
-- 🧠 Constant learner with hands-on experience in ML and hackathons
-- 📫 Email: [fathimazenha21@gmail.com](mailto:fathimazenha21@gmail.com)
-- 📱 WhatsApp: [+91 9037720191](https://wa.me/919037720191)
-- 🌐 [GitHub](https://github.com/Zenha123) | [LinkedIn](https://www.linkedin.com/in/zenha-fathima-b37101270)
+- Focused on building robust & scalable solutions
+- Passionate about: AI Agents, Generative AI 
+- Finalist at TinkerHack 3.0
+- Contributor at Full Stack Bootcamp, INNOVUS CS Association COET  
 
 ---
 
@@ -25,6 +22,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,43 +32,50 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🌟 Projects
 
-#### 🛠 Reparohub – E-Product Repair & Customer Care Portal
+#### 🛠 Reparohub – E-Product Repair & Customer Care Portal  
 → Full-stack Django platform with repair request submission, live service tracking  
 → Integrated encrypted chat using **Django Channels + WebSockets**  
-→ Separate dashboards for service centers and customers with role-based access
+→ Separate dashboards for service centers and customers with role-based access  
+
+#### 💬 Firebase Chat Application  
+→ Real-time chat app built with **React + Firebase**  
+→ Features **user authentication, cloud Firestore, and instant messaging**  
+→ Hosted on **Firebase Hosting** with live deployment  
 
 #### 🚘 Car Rental Booking System  
 → Django-based platform to browse and book rental cars  
 → Price-based sorting, transmission/fuel filters, responsive UI  
-→ Emphasis on clean frontend with dynamic backend
+→ Emphasis on clean frontend with dynamic backend  
 
 #### ❓ Quiz Website – Bugs on Media  
 → Django-powered MCQ platform with category-based questions  
-→ Timer & scoring system, interactive and mobile-friendly UI
+→ Timer & scoring system, interactive and mobile-friendly UI  
 
 #### 🍎 Apple E-Commerce Website  
 → Fully static responsive frontend site with animations and product showcase  
-→ HTML, CSS, JS project focused on design and performance
+→ HTML, CSS, JS project focused on design and performance  
 
-#### 🌐  Protfolios  
-→ Multiple responsive protfolios deployed on GitHub Pages, Netlify, and Vercel  
-→ Highlights frontend & UI/UX skills with interactive elements
+#### 🌐 Protfolios  
+→ Multiple responsive portfolios deployed on GitHub Pages, Netlify, and Vercel  
+→ Highlights frontend & UI/UX skills with interactive elements  
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 🥇 **Best Project Award – Tinker-Hack 3.0**, Kerala's Largest Women's Hackathon
-- 🧠 **Machine Learning with Python** – Skill Development Program by Central University of Kerala & ICFOSS
-- 💻 **Web Development Training** – IMIOT Technolabs, 45-day intensive hands-on program
-- 🚀 Contributor – **Full Stack Bootcamp**, INNOVUS CS Association
-- 🧩 Participant – **INNOV8 Hackathon**, team-based challenge solving under time constraints
+- 🥇 **Best Project Award – Tinker-Hack 3.0**, Kerala's Largest Women's Hackathon  
+- 🧠 **Machine Learning with Python** – Skill Development Program by Central University of Kerala & ICFOSS  
+- 💻 **Web Development Training** – IMIOT Technolabs, 45-day intensive hands-on program  
+- 🚀 Contributor – **Full Stack Bootcamp**, INNOVUS CS Association  
+- 🧩 Participant – **INNOV8 Hackathon**, team-based challenge solving under time constraints  
 
 ---
 
