@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zenha Fathima</h1>
-<h3 align="center">🚀 Python Backend Developer | Django | Frontend Developer | AI Agents Enthusiast </h3>
+<h3 align="center">🚀 Python Full Stack  Developer | Django | React | AI Agents Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zenha123&label=Profile%20views&color=0e75b6&style=flat" alt="Zenha123" />
@@ -35,40 +35,43 @@ Computer Science Engineering Student | Aspiring Software & Back-End Developer
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ---
 
 ### 🌟 Projects
 
-#### 🛠 Reparohub – E-Product Repair & Customer Care Portal  
-→ Full-stack Django platform with repair request submission, live service tracking  
-→ Integrated encrypted chat using **Django Channels + WebSockets**  
-→ Separate dashboards for service centers and customers with role-based access  
+## 🚀 Featured Projects
 
-#### 💬 Firebase Chat Application  
-→ Real-time chat app built with **React + Firebase**  
-→ Features **user authentication, cloud Firestore, and instant messaging**  
-→ Hosted on **Firebase Hosting** with live deployment  
+### 🧠 AI-Powered Invoice–PO Matcher  
+→ Full-stack system using Django REST, React, Mistral AI & Tesseract OCR  
+→ Automates invoice–PO matching with structured data comparison  
+→ Dockerized deployment with Supabase (PostgreSQL) & Render  
 
-#### 🚘 Car Rental Booking System  
-→ Django-based platform to browse and book rental cars  
-→ Price-based sorting, transmission/fuel filters, responsive UI  
-→ Emphasis on clean frontend with dynamic backend  
+### 🤖 AI Task Assignment System  
+→ AI-driven task automation platform built with Django REST & React  
+→ Intelligent assignment logic with scalable backend architecture  
 
-#### ❓ Quiz Website – Bugs on Media  
-→ Django-powered MCQ platform with category-based questions  
-→ Timer & scoring system, interactive and mobile-friendly UI  
+### 🧪 SmartLab Management System  
+→ LAN-based lab automation system with Django + PyQt6 apps  
+→ Real-time screen monitoring (WebRTC) & WebSocket communication  
+→ Secure exam mode, attendance tracking & system-level control  
 
-#### 🍎 Apple E-Commerce Website  
-→ Fully static responsive frontend site with animations and product showcase  
-→ HTML, CSS, JS project focused on design and performance  
+### ✉️ AI Email Summarizer  
+→ Django + Google Gemini AI based email analysis tool  
+→ Converts unstructured emails into structured JSON insights  
 
-#### 🌐 Protfolios  
-→ Multiple responsive portfolios deployed on GitHub Pages, Netlify, and Vercel  
-→ Highlights frontend & UI/UX skills with interactive elements  
+### 🛠 Reparohub – Repair & Service Portal  
+→ Full-stack Django platform for repair requests & live tracking  
+→ Encrypted real-time chat using Django Channels & WebSockets  
+→ Role-based dashboards for customers & service centers  
 
 ---
 
+## 📦 Other Projects  
+Car Rental Booking System • Firebase Chat Application • Quiz Website (BugsonMedia) • Apple E-Commerce Website • Calvin Klein Watch E-Commerce UI • Portfolio Websites
 ### 🏆 Achievements & Certifications
 
 - 🥇 **Best Project Award – Tinker-Hack 3.0**, Kerala's Largest Women's Hackathon  
@@ -92,7 +95,6 @@ Computer Science Engineering Student | Aspiring Software & Back-End Developer
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zenha-fathima-b37101270)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/919037720191)
 [![Email](https://img.shields.io/badge/Email-fathimazenha21@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:fathimazenha21@gmail.com)
 
 ---
